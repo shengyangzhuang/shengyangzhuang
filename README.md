@@ -4,13 +4,6 @@
 
 Hi, I’m **Shengyang**, currently a doctoral researcher working at the intersection of **robotics**, **machine learning**, and **computer vision**. I study how cheetahs move, learn, and adapt — and how that intelligence can be transferred into agile, intelligent robotic systems.
 
-My work focuses on:
-
-- 🐾 **Quadrupedal locomotion** and neuromechanical control  
-- 🧩 **Inverse reinforcement learning** for modelling animal behaviour  
-- 🎥 **Computational ethology** using RGB‑D, stereo vision, and motion capture  
-- 🤖 **Bio‑inspired control** for adaptive, robust robots  
-
 ---
 
 ## 🌍 Background
@@ -26,14 +19,7 @@ More details on my academic path and experience:
 
 ---
 
-## 📫 Contact
-- 🌐 Website: [https://shengyangzhuang.github.io/](https://shengyangzhuang.github.io/)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/shengyang-zhuang/ ](https://www.linkedin.com/in/shengyang-zhuang/)
-
----
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shengyangzhuang&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shengyangzhuang&theme=default" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shengyangzhuang&theme=default" />
 </p>
